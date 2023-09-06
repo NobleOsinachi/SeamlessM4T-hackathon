@@ -55,4 +55,3 @@ This repository contains the code and documentation for our project developed du
 ## License
 
 [Specify the license for your project and include any necessary license information.]
-
